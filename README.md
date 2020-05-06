@@ -17,8 +17,8 @@ an argument.
 
 Future Updates
 --------------
--Define the repository structure
--Refine the script, add format flexibility
--possibly convert into a module
--Include column headers for the .csv
--Create a GUI graph display
+-Define the repository structure  
+-Refine the script, add format flexibility  
+-possibly convert into a module  
+-Include column headers for the .csv  
+-Create a GUI graph display  
